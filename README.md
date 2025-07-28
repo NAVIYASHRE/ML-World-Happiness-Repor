@@ -1,2 +1,2 @@
-# ML-World-Happiness-Repor
+# ML-World-Happiness-Report
 World Happiness Report
